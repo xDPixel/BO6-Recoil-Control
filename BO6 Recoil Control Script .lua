@@ -78,9 +78,3 @@ end
 function IsModifierPressed(modifier)
   return GetKeyState(modifier) == 1
 end
-
---[[ 
-  MIT License
-  Copyright (c) 2024 YourName
-  Permission is hereby granted... [Include full license text]
---]]
