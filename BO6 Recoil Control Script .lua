@@ -1,8 +1,4 @@
---[[ 
-  BO6 Recoil Control Script for Logitech G502 Lightspeed
-  Version 1.2 | Developed with community-verified patterns
-  GitHub Documentation: https://github.com/your-repo/bo6-recoil
---]]
+
 
 -- WEAPON DATABASE (Tested in firing range)
 local weapons = {
