@@ -1,5 +1,3 @@
-
-
 -- WEAPON DATABASE (Tested in firing range)
 local weapons = {
   -- SMGs
